@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news from the deep being a full account of a large prodigious whale, lately taken in the river Wivner, within six miles of Colchester : declaring the strange manner of its coming up, by what unusuall means it was seized upon by the neighboring inhabitants : also an account of the like prodigious accidents in general.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94019</idno>
+            <idno type="STC">Wing S5905B</idno>
+            <idno type="STC">ESTC R214062</idno>
+            <idno type="EEBO-CITATION">38875922</idno>
+            <idno type="OCLC">ocm 38875922</idno>
+            <idno type="VID">152430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news from the deep being a full account of a large prodigious whale, lately taken in the river Wivner, within six miles of Colchester : declaring the strange manner of its coming up, by what unusuall means it was seized upon by the neighboring inhabitants : also an account of the like prodigious accidents in general.</title>
+               </titleStmt>
+               <extent>8 p. ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.H.,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>in the Year 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains ill. on t.p. and at end of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whales --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152430:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <figure/>
+            <p>
+               <hi>Declaring the ſtrange manner of its Coming up, and by what unuſuall means it was ſeized upon by the Neighbouring Inhabitants. Alſo an Account of the like prodigious Accidents in general.</hi>
+            </p>
+            <p>
+               <hi>Printed for</hi> W. H. <hi>in the Year</hi> 1677.</p>
+            <pb facs="tcp:152430:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:152430:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152430:3"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="3" facs="tcp:152430:3"/>
+            <!-- PDF PAGE 87 -->
+            <head>Great News from the OCEAN.</head>
+            <p>THE main <hi>Ocean</hi> being the general Empire or Dominion of the <hi>Whale,</hi> the admiring World look upon it as a prodigie, if at any time that mighty <hi>Leviathan</hi> makes a prodigal excurtion out of his own ſpacious Confines, to ſport himſelf in any <hi>Creek</hi> or River.</p>
+            <p>Some People have been ſo ſuperſticious as to take notice, that there commonly falls out ſome extraordinary Change or Revolution in thoſe Countreys where ſuch a thing hap<g ref="char:EOLhyphen"/>pens; but what reaſon they have for it, I cannot yet ima<g ref="char:EOLhyphen"/>gine: So heretofore Men took their Augury from flying-Birds, or the entrails of dead Beaſts; but how little intelli<g ref="char:EOLhyphen"/>gence this as inquiſitive, and if I did not live in it my ſelf, I ſhould ſay more learned <hi>Age,</hi> has gathered out of ſuch Obſervations, I leave to the Prudent to Compute.</p>
+            <p>I know ſome Men who have precipitated their own Mor<g ref="char:EOLhyphen"/>tality, and conceited they ſhould immediately dye, before (as the ſubſequence after proved it) <hi>Providence</hi> intended their expiration; meerly upon the inſignificant <hi>Clicking,</hi> or well-meaſured palpitation of a diſcontented <hi>Wood-worm,</hi> or <hi>Death-watch.</hi> Others who have took pet at their own Salubrioſity or Health, and been frighted into an <hi>Ague,</hi> or <hi>Conſumption</hi> at the letcherous ſhricks of a wanton <hi>Weeſel.</hi> For my part, who am no Admirer of Old Womens Sto<g ref="char:EOLhyphen"/>ries, I know no reaſon why we may not as rationally tremble at the obſtreperous neighings of a <hi>Rude Stone-Horſe;</hi> or put on a <hi>Sick Cap</hi> at the laſcivious noiſe of a clamorous <hi>Catter<g ref="char:EOLhyphen"/>wauling,</hi>
+               <pb n="4" facs="tcp:152430:4"/>
+               <!-- PDF PAGE 88 -->as be terrified at either of them. So far am I from inſinuating any doubts or fears into the minds of any of my Fellow Subjects, that I think they had never leſs occa<g ref="char:EOLhyphen"/>ſion to apologize a ſmile, or excuſe the mirth of a <hi>Jubilee,</hi> than now they have; and perhaps the moſt diſcontented of them would club with me in that belief, would their frenzy give them ſo much patience as to conſider, That moſt part of the yet known World are now involved in <hi>Martial</hi> Broils; whilſt the indulgent <hi>Heavens</hi> are ſo kind as to admit us to be the quiet Commiſerators of their miſeries.</p>
+            <p>My Pen raves, and Phancy itches to amplifie upon that Subject; but fearing my large <hi>Porch</hi> is already too big for my little <hi>Houſe,</hi> I will baulk my inclinations to pur<g ref="char:EOLhyphen"/>ſue my <hi>Theme.</hi>
+            </p>
+            <p>Being not over-cumber'd with buſineſs, I made it part of mine to walk the Streets, which I found lately infected with the hideous noiſe of <hi>a Blazing-Star,</hi> or prodigious <hi>Comet,</hi> which was viſibly ſeen here in <hi>England</hi> (as if other Parts of the World were not admitted <hi>The fine ſh</hi>— or <hi>Rarity ſhow;</hi> and might not as reaſonably appropriate inſuing evills to themſelves, as ſome of our diſcontented <hi>Fanaticks</hi> do to us) whereupon I conſulted the Judgment of the Learned concerning the nature of a <hi>Meteor,</hi> which I find them all agree (except the <hi>Lillian</hi> Tribe) to be no other than an <hi>Ignis fatuus,</hi> or <hi>Will of the Wiſp</hi> drawn by the Sun's extraordinary exhalations into a higher <hi>Sphere,</hi> and owns its elevation to that degree of heat which at<g ref="char:EOLhyphen"/>tracts it.—</p>
+            <p>After this I heard the Multitude ask for an Account of a Strange <hi>Whale,</hi> which was lately taken —they could not tell where, but ſomewhere about <hi>England</hi> they were ſure of it. This made me ſolicitous to enquire after it; and I was ſo fortunate at laſt to meet with the Maſter
+<pb n="5" facs="tcp:152430:4"/>
+               <!-- PDF PAGE 88 -->of a Ship who was an Eye-witneſs of its incurſion, and gave me this following Account concerning it.</p>
+            <p>That on the 23. of this preſent Month <hi>April,</hi> the Neigh<g ref="char:EOLhyphen"/>bouring Inhabitants to a fair River in <hi>Eſſex,</hi> known by the Name of <hi>Wivner-River</hi> (whoſe Mouth opens to the Sea) perceived a great diſturbance in the Water, which big<g ref="char:EOLhyphen"/>gened the expectations of the Countrey-Men in thoſe parts, ſo that ſome of them threw down their Shovels, others forſook their Plough-tails; and in fine, the generality of them left their Imployments to go to be the Spectators of the Event of ſo unuſual an Accident. The troubled Water put ſome of them into pious cogitations, whilſt others gaping for the Event, ſpy'd the back of a Fiſh of an ex<g ref="char:EOLhyphen"/>traordinary ſize, who by her diſcontented poſtures and fre<g ref="char:EOLhyphen"/>quent ſtruglings ſeem'd to quarrel with the narrowneſs of the River for more Elbow-room. She ſometimes threw her prodigious Head above the Waves, at other times with her ſpreading Tail ſhovelled the Sands ſo high, that part of them fell on the Spectators Heads: One while ſhe flown<g ref="char:EOLhyphen"/>ced at ſuch a rate, that they beheld the greateſt part of her Body, and with the ponderous ſquelſh of her large Bulk falling again into the Water, made the depreſſed Waves in a haughty inſurrection out-ſwell their Bancks, and threaten an over-flow to the Neighbouring <hi>Meads.</hi>
+            </p>
+            <p>In this diſcontented motion ſhe continued to go up ſome part of that River, till ſhe came within ſix miles of <hi>Colcheſter,</hi> where the Sands being waſht away by the preceding Tide, ſhe was fain to ſtruggle for life in a low Water and hard bottom; where, with her extraordinary endeavour to quit her ſelf of that <hi>premunire,</hi> ſhe brake off part of her Tall, and with a deluge of Blood which immediately iſſued from that fraction, coloured the whole Stream with a ſanguine or bloody Tincture; in ſo much
+<pb n="6" facs="tcp:152430:5"/>
+               <!-- PDF PAGE 89 -->that thoſe Inhabitants who lived ſome diſtance off, nearer the Sea, were ſtartled at the alteration, and really ima<g ref="char:EOLhyphen"/>gined that no leſs an accident than that of a Bloody fight could ſtain the Water with ſo deep a Dye.</p>
+            <p>In fine, the Spectators were amaz'd; no Man durſt ven<g ref="char:EOLhyphen"/>ture to ſeize upon the unuſual <hi>Viſitant,</hi> till at length ſhe her ſelf ſav'd them that labour; for having ſtruggled ſo long in thoſe ſhallow Waters, ſhe bruis'd her ſelf ſo much, that had ſhe not had that misfortune of breaking off her Tail, it is ſince judg'd ſhe could not have liv'd, had ſhe recovered her beloved <hi>Ocean.</hi>
+            </p>
+            <p>In ſhort, Reader, this Gentleman who gave me this infor<g ref="char:EOLhyphen"/>mation told me that in this lamentable condition ſhe endea<g ref="char:EOLhyphen"/>voured to reſiſt her fate, till at length, for want of both breath and blood, ſhe dyed in the Water, being of ſo large a bulk that the River could not cover her: Her Body ſtrutted out of the Waters like a Hill, or <hi>Promontory;</hi> and when ſhe was drawn out of the River and came to be meaſured, ſhe was found to be no leſs than fifty Foot in length, and twenty eight in thickneſs.</p>
+            <p>Perhaps it may be expected by ſome, that ſince I have un<g ref="char:EOLhyphen"/>dertaken to give an account of the arrival of this prodigious Creature, I ſhould alſo turn Naturaliſt, and be obliged to give the World the Reaſon of their excurſions in general.</p>
+            <p>I know there are divers have gueſs'd at thoſe inducements which have cauſed Whales to wander out of their Natural Province, the unbounded Ocean; but ſince they have not been able to giue us a ſenſible demonſtration, we may chuſe whether we will pin an implicite credulity on their (in other things) authentick ſleeves.</p>
+            <pb n="7" facs="tcp:152430:5"/>
+            <!-- PDF PAGE 89 -->
+            <p>
+               <hi>Pliny</hi> would perſwade us that their unnatural wandrings are generally cauſed by ſickneſs or indiſpoſition of Body, which, as with rational, ſo much more with ſenſitive Crea<g ref="char:EOLhyphen"/>tures uſually makes them reſtleſs and diſcontented; this it is which makes them out of conceit with their old Coverts, and run like mad Dogs at Adventures, they greatly care not whither, having vainly tried for a Medicine in the ſalt Wa<g ref="char:EOLhyphen"/>ters, their ſenſe inclines them to hope for what they miſt of there in the freſh; ſo that having made ſome entrance into ſome Creek which leads to a Rivers mouth, the freſh Wa<g ref="char:EOLhyphen"/>ter ſtill increaſing upon them, they never return till they are either taken or <hi>Sanded.</hi>
+            </p>
+            <p>Some hold that there are ſome Tides ſo impetuous, that by vertue of their ſtrength alone they are able to hurle a young Whale into the mouth of a freſh Water River; in which, perhaps ſhe may ſport her ſelf awhile, till thoſe Waters re<g ref="char:EOLhyphen"/>vert and treacherouſly leave her on the naked <hi>Sands.</hi>
+            </p>
+            <p>A third ſort of opinions there are, who do appropriate to a ſtorm the ſame effect.</p>
+            <p>And a fourth, and indeed theſe are moſt numerous, though (perhaps leaſt authentick) who would have <hi>Whales</hi> to be brought to Land by the ſame means, and for the ſame Rea<g ref="char:EOLhyphen"/>ſon, as (they would have it) Comets are placed in the Skie, <hi>viz.</hi> either as a certain ſign of an inſuing Judgment to fall upon that Nation over which they depend, or elſe a favour<g ref="char:EOLhyphen"/>able warning given us by the Almighty, to turn from ſome notorious ſins, and conſequently avoid thoſe threatning pu<g ref="char:EOLhyphen"/>niſhments which nothing but a real reformation and hearty repentance can infallibly avoid.</p>
+            <pb n="8" facs="tcp:152430:6"/>
+            <!-- PDF PAGE 90 -->
+            <p>For all I have ſaid I know ſome people upon this Narra<g ref="char:EOLhyphen"/>tive will be apt to be preſaging, but as long as it ſhall pleaſe <hi>the Almighty</hi> to keep in health <hi>his most ſacred Majeſty,</hi> and (as he already has) to give him the Love of his Subjects, and a happy Concordance with their repreſentitive the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> I think we ſhould abuſe the remarkable mercies of our God in fearing enſuing miſeries, whilſt we have ſuch proba<g ref="char:EOLhyphen"/>ble hopes of future Proſperity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <figDesc>man in the mouth of a whale</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:152430:6"/>
+            <!-- PDF PAGE 90 -->
+         </div>
+      </body>
+   </text>
+</TEI>
